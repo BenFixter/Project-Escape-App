@@ -25,7 +25,7 @@
     "react-native-geolocation-service": "^5.3.0-beta.4",
     "react-native-gesture-handler": "^2.24.0",
     "react-native-get-location": "^2.2.1",
-    "react-native-iap": "^8.0.5",
+    "react-native-iap": "^8.6.7",
     "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^3.36.0",
