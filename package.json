@@ -17,7 +17,7 @@
     "@react-navigation/elements": "^1.2.1",
     "@react-navigation/native": "^6.1.18",
     "@react-navigation/native-stack": "^6.11.0",
-    "@react-navigation/stack": "^6.0.11",
+    "@react-navigation/stack": "^6.4.1",
     "native-base": "^3.4.28",
     "react": "17.0.2",
     "react-native": "^0.78.0",
